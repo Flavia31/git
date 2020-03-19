@@ -26,4 +26,7 @@ public class ProcesorCautare implements Procesor {
 
         return res;
     }
+    public void procesor(){
+        System.out.println("PAA");
+    }
 }
